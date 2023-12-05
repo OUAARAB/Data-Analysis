@@ -1,2 +1,1 @@
-# ForExAnt
-Ant colony for ForEx
+# Data Analysis Course
