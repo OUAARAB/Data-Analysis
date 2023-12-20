@@ -37,4 +37,4 @@ Bienvenue dans le dépôt du cours sur l'Analyse en Composantes Principales (ACP
 # Atelier sur les Véhicules Électriques
 
 Ce dépôt comprend également un atelier exploratoire de données sur un ensemble de véhicules électriques. Le jeu de données associé contient des informations détaillées sur 20 véhicules.
-Ces données offrent une opportunité d'exploration approfondie des performances et des caractéristiques des véhicules électriques. Vous pouvez accéder au jeu de données en consultant le fichier excel fourni dans ce dépôt.
+Ces données offrent une opportunité d'exploration approfondie des performances et des caractéristiques des véhicules électriques. Vous pouvez accéder au jeu de données en consultant le fichier CSV fourni dans ce dépôt.
