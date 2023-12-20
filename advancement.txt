@@ -1,0 +1,7 @@
+# Regression simple => (X = h-index, Y = Citations)
+
+# Regression multiple => (X1 = h-index, X2 = i10-index, Y = Citations)
+
+# ANOVA => 3 groupes (A => nbr de publication > 0 et < 50, B nbr de publication > 50 et < 100, C nbr de publication > 100) et h-index
+
+# ACP => (citations, h-index, i10-index, nbr de publications)
